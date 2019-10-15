@@ -1,1 +1,1 @@
-# HelloWordl CLI
+# HelloWorld CLI
